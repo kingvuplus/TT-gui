@@ -1,0 +1,6 @@
+# 2015.06.19 22:55:58 CET
+#Embedded file name: /usr/lib/enigma2/python/NavigationInstance.py
+instance = None
++++ okay decompyling NavigationInstance.pyo 
+# decompiled 1 files: 1 okay, 0 failed, 0 verify failed
+# 2015.06.19 22:55:58 CET
