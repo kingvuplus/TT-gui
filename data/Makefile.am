@@ -15,7 +15,6 @@ dist_pkgdata_DATA = \
 	freesat.t1 \
 	freesat.t2 \
 	unicable.xml \
-	videowizard.xml \
 	skin_subtitles.xml \
 	defaultsatlists.xml \
 	defaultwizard.xml \
